@@ -1,8 +1,8 @@
 
 # If trying this app locally, comment out these 3 lines
-# __import__("pysqlite3")
-# import sys
-# sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
+__import__("pysqlite3")
+import sys
+sys.modules["sqlite3"] = sys.modules.pop("pysqlite3")
 
 #Adapted from Charly Wargnier's code: https://github.com/CharlyWargnier/LangchainRAG-Trubrics-Langsmith. 
 
