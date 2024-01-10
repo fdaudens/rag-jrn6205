@@ -44,7 +44,9 @@ st.subheader("💬📚 L'assistant-robot du cours JRN6205")
 
 st.info(
 """
-Cet outil expérimental permet de poser des questions sur les notes de cours et les présentations. Les notes de cours seront accessibles peu après chaque cours.
+Cet outil expérimental permet de poser des questions sur les notes de cours et les présentations. Les notes de cours seront accessibles peu après chaque cours. 
+
+*Si vous changez de sujet, n'oubliez pas d'effacer l'historique des messages pour que le contexte ne soit pas pris en compte dans les interactions avec le modèle.*
 """
 )
 
