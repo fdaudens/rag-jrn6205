@@ -1,3 +1,4 @@
+# Cours 2 - IA et journalisme - Verbatim du cours 
 
 
 et
